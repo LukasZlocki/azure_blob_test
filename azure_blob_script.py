@@ -26,7 +26,7 @@ container_name = "write blob_container_name here"
 # Files names
 json_file_name = "user_list_objects_json.json"
 csv_file_name = "user_list_object_csv.csv"
-files_path = 'C:\\Users\\zloty\\Google Drive\\100 WSB\\6 Semestr 6\\ZaawansowanePrzetwarzanieWChmurze\\3 Lab_Zadanie03\\'
+files_path = 'write file_path here'
 
 # Example of user class
 class User:
